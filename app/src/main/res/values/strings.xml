@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gdgtorino</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="team">Team</string>
+    <string name="events">Events</string>
+    <string name="contact">Contact</string>
+    <string name="website">www.gdgtorino.it</string>
+    <string name="twitter">https://twitter.com/gdgtorino</string>
+    <string name="facebook">https://www.facebook.com/gdgtorino/</string>
+    <string name="gplus">https://plus.google.com/communities/106949982239269904084</string>
+    <string name="slogan">LEARN TO INNOVATE, \nCODE YOUR FUTURE</string>
+    <string name="about_text1">Il Google Developer Group (GDG) Torino si propone come punto di incontro per gli appassionati di tecnologia, web e social media che girano attorno a Google e non solo</string>
+    <string name="about_text2">Lo scopo è quello di creare una community dove le persone sono libere di condividere le proprie idee, le proprie conoscenze ed esperienze.</string>
+</resources>
