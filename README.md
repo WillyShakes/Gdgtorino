@@ -16,9 +16,9 @@ With the app, you can:
 - Play past events session video streams
 - Send feedback on sessions, from your phone/tablet.
 
-<h2>How to Work with the Source</h2>
+<h2>Use the Source </h2>
 
-We hope the source code for this app is useful for you as a reference or starting point for creating your own apps. Here is some additional reading to help you better understand and reuse this code.
+We hope the source code for this app is useful for you as a reference or starting point for creating your own apps. 
 
 <h2>Copyright</h2>
 
